@@ -22,4 +22,6 @@ you can directly import it as follows
 import info
 
 print(info.data)
+
+# {'name': 'hamed', 'lastname': 'zaghaghi', 'repos': ['https://github.com/zaghaghi/direct-json-import']}
 ```

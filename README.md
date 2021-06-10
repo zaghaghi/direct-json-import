@@ -26,5 +26,5 @@ print(info.data)
 # {'name': 'hamed', 'lastname': 'zaghaghi', 'repos': ['https://github.com/zaghaghi/direct-json-import']}
 ```
 
-![](demo.gif){:width="200px"}
+![](demo.gif)
 
